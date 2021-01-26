@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-[![NaimSantos's github stats](https://github-readme-stats.vercel.app/api?NaimSantos=NaimSantos)](https://github.com/NaimSantos/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NaimSantos)](https://github.com/anuraghazra/github-readme-stats)
