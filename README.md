@@ -5,4 +5,5 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/NaimSantos/NaimSantos)](https://badges.pufler.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimSantos&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[comment]: # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimSantos&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
