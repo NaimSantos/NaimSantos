@@ -1,5 +1,5 @@
 ##
-Hi there 👋. You can find me on Twitter
+Hi there 👋.
 
 
 
