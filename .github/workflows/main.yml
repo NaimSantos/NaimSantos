@@ -1,7 +1,7 @@
 name: Snake Grid
 on:
   schedule: # execute every 24 hours
-    - cron: "* */12 * * *"
+    - cron: "* *1/12 * * *"
   workflow_dispatch:
 
 jobs:
