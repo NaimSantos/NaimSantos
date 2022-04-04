@@ -7,6 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimSantos&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaimSantos&theme=gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaimSantos&theme=cobalt" />
 </a>
 
