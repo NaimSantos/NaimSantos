@@ -1,6 +1,6 @@
 ##
 
-Welcome to my Github Profile. I'm Naim, a physics engineer and Computational Modelling Phd student doing research in the Computational Fluid Dynamics area, with special interest in meshfree methods. In my free time, I also script custom cards to be used in Edopro (a simulator for the Yu-Gi-Oh! card game)
+Welcome to my Github Profile. I'm Naim, a physics engineer and Computational Modelling Phd student doing research in the Computational Fluid Dynamics area, with special interest in meshfree methods.
 
 
 
